@@ -8,7 +8,7 @@ export function Playground() {
 
     const answer: { [key: string]: string | JSX.Element } = {
         'bigard': <iframe className="w-full" src='https://yewtu.be/embed/dXAd5H8DNKw?autoplay=1'/>,
-        'shlaa': <iframe className="w-full" src='https://yewtu.be/embed/dXAd5H8DNKw?autoplay=1'/>,
+        'schlak': <iframe className="w-full" src='https://yewtu.be/embed/dXAd5H8DNKw?autoplay=1'/>,
         'caca': <iframe className="w-full" src="https://www.youtube.com/embed/81oXvFti73Y?si=Dmjt7wLz2x9CT6eQ&autoplay=1" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen/>,
         'poop': <iframe className="w-full" src="https://www.youtube.com/embed/81oXvFti73Y?si=Dmjt7wLz2x9CT6eQ&autoplay=1" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen/>,
         'shit': <iframe className="w-full" src="https://www.youtube.com/embed/81oXvFti73Y?si=Dmjt7wLz2x9CT6eQ&autoplay=1" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen/>,
